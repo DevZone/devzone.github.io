@@ -1,2 +1,0 @@
-# devzone.pw
-Temporary website
